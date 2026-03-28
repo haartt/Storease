@@ -1,0 +1,99 @@
+{
+  "fill" : {
+    "linear-gradient" : [
+      "extended-gray:1.00000,1.00000",
+      "extended-gray:1.00000,1.00000"
+    ]
+  },
+  "groups" : [
+    {
+      "blend-mode" : "normal",
+      "blur-material" : 0.5,
+      "hidden-specializations" : [
+        {
+          "idiom" : "square",
+          "value" : false
+        }
+      ],
+      "layers" : [
+        {
+          "fill" : {
+            "linear-gradient" : [
+              "display-p3:0.87006,0.47712,0.22443,1.00000",
+              "extended-srgb:0.38039,0.33333,0.96078,1.00000"
+            ]
+          },
+          "glass" : true,
+          "image-name" : "prova icona 3.png",
+          "name" : "prova icona 3",
+          "position" : {
+            "scale" : 1,
+            "translation-in-points" : [
+              -154.25,
+              -72.3984375
+            ]
+          }
+        },
+        {
+          "fill" : {
+            "solid" : "display-p3:0.87006,0.47712,0.22443,1.00000"
+          },
+          "image-name" : "prova icona 2png.png",
+          "name" : "prova icona 2png",
+          "opacity" : 1,
+          "position" : {
+            "scale" : 1,
+            "translation-in-points" : [
+              -71.046875,
+              -15.09375
+            ]
+          }
+        },
+        {
+          "blend-mode" : "normal",
+          "fill" : {
+            "linear-gradient" : [
+              "extended-srgb:1.00000,0.55294,0.15686,1.00000",
+              "display-p3:0.44992,0.30710,1.00000,1.00000"
+            ]
+          },
+          "glass" : true,
+          "image-name" : "prova icona.png",
+          "name" : "prova icona",
+          "opacity" : 1,
+          "position" : {
+            "scale" : 1,
+            "translation-in-points" : [
+              -11.53125,
+              -11.40625
+            ]
+          }
+        }
+      ],
+      "lighting" : "individual",
+      "name" : "Group",
+      "position" : {
+        "scale" : 1,
+        "translation-in-points" : [
+          21.8671875,
+          5.5390625
+        ]
+      },
+      "shadow" : {
+        "kind" : "layer-color",
+        "opacity" : 0.5
+      },
+      "specular" : true,
+      "translucency" : {
+        "enabled" : true,
+        "value" : 0
+      }
+    }
+  ],
+  "supported-platforms" : {
+    "circles" : [
+      "watchOS"
+    ],
+    "squares" : "shared"
+  }
+}

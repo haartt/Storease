@@ -37,7 +37,7 @@ No blank page, no pressure. Just a photo, a few taps, and a story that's yours.
 
 ## Team
 
-Made with ❤️ at the **Apple Developer Academy 2025–26** — Challenge #3.
+Made with my team at the **Apple Developer Academy 2025–26** — Challenge #3.
 
 | | Contributor |
 |---|---|
